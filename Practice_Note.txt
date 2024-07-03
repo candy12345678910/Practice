@@ -1,4 +1,0 @@
-npx create-react-app abd
-npm i
-cd abd
-npm run start
